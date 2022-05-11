@@ -1,4 +1,4 @@
-# A demo of [SolidJS](https://github.com/solidjs/solid) with [TailwindCSS](https://github.com/tailwindlabs/tailwindcss) and [Animate.css](https://github.com/animate-css/animate.css).
+# A template for [SolidJS](https://github.com/solidjs/solid) with [TailwindCSS](https://github.com/tailwindlabs/tailwindcss) and [Animate.css](https://github.com/animate-css/animate.css).
 
 Forked from the SolidJS [vite typescript starter template](https://github.com/solidjs/templates/tree/master/ts)
 
