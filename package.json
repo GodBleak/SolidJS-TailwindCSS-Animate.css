@@ -2,6 +2,7 @@
   "name": "solidjs-ts-tailwindcss-animatecss",
   "version": "0.0.0",
   "description": "SolidJS Typescript Template from\ngithub/solidjs/templates/ts,\npre-configured with TailwindCSS and Animate.css",
+  "type": "module",
   "scripts": {
     "start": "vite",
     "dev": "vite",
@@ -13,7 +14,7 @@
     "animated-tailwindcss": "^3.0.1",
     "autoprefixer": "^10.4.2",
     "postcss": "^8.4.5",
-    "tailwindcss": "^3.0.15",
+    "tailwindcss": "^3.1.6",
     "typescript": "^4.5.4",
     "vite": "^2.7.10",
     "vite-plugin-solid": "^2.2.1"
